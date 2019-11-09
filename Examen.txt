@@ -1,0 +1,40 @@
+Nombre: Franco Ivan Bojorquez Martinez
+Grupo: Matutino 1
+Fecha:Viernes 8 de Noviembre del 2019
+
+Cual es la diferencia entre Git y GitHub?
+R: La principal diferencia es que git es una herramienta y github es un servicio donde guardas lo que haces con esa herramienta
+
+En cuantos y cuales estados puede estar un archivo?
+R: Commited, Staged y Modified
+
+Para que sirve el comando "git add ." ?
+R: Es para agregar archivos al area de trabajo
+
+Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+R:no se si entendi la pregunta bien pero segun yo es el digamos como hash o identificador la fecha la hora y el id de la persona que lo hizo
+
+Cual es el comando para crear una rama en mi repositorio?
+R: git checkout -b <banch-name>
+
+JIRA
+	
+Defina lo que es un issue:
+R: Es como una tarea o un recordatorio de el trabajo que te toca hacer
+
+En kanban y scrum,cuales son las columnas default de un tablero?
+R: no se si te refieres al backlog,to do, in progress y el completed
+
+Como se selecciona un Dashboard para mostrarse en la pantalla de bienvenida?
+
+
+Jenkins
+	
+Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+Como se installa Jenkins en un sistema linux?
+R:primero añadimos los repositorios y con el apt-get install -y jenkins, despues pegas el password en la pantalla de unlock jenkins luego
+instalas los plugins y finalizamos haciendo el administrador
+
+Cual es la relacion entre Hudson y Jenkins? 
+R: Que las dos son una herramienta de integracion, que pasaron de ser la misma herramienta a dividirse por la batalla legal que tenia java
+y digamos la relacion/diferencia tambien peude ser que uno es open source y el otro s ehizo de paga 
